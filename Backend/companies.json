@@ -1,0 +1,62 @@
+    [
+        {
+            "name": "BCG X",
+            "description": "BCG X disrupts the present and creates the future by building new products, services, and businesses in partnership with the world's largest organizations.",
+            "created_at": "30-09-2003",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "OpenAI",
+            "description": "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.",
+            "created_at": "11-12-2015",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "SpaceX",
+            "description": "SpaceX designs, develops, and launches advanced rockets and spacecraft. The company aims to revolutionize space transportation and make life multi-planetary.",
+            "created_at": "06-05-2002",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Tesla",
+            "description": "Tesla builds electric vehicles, clean energy products, and solar solutions. Its mission is to accelerate the world's transition to sustainable energy.",
+            "created_at": "01-07-2003",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Google",
+            "description": "Google provides search, advertising, cloud computing, and a variety of software and hardware products, with a mission to organize the world's information.",
+            "created_at": "04-09-1998",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Amazon",
+            "description": "Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+            "created_at": "05-07-1994",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Microsoft",
+            "description": "Microsoft develops, licenses, and supports software, services, devices, and solutions worldwide. Known for Windows and Azure.",
+            "created_at": "04-04-1975",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Apple",
+            "description": "Apple designs, manufactures, and markets consumer electronics, personal computers, and software, with iconic products like the iPhone and Mac.",
+            "created_at": "01-04-1976",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Meta",
+            "description": "Meta is a social technology company focusing on connecting people through platforms like Facebook, Instagram, and WhatsApp.",
+            "created_at": "04-02-2004",
+            "num_of_emp": "1000"
+        },
+        {
+            "name": "Netflix",
+            "description": "Netflix is a streaming service that offers a wide variety of TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+            "created_at": "29-08-1997",
+            "num_of_emp": "1000"
+        }
+    ]
